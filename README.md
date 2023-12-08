@@ -25,6 +25,8 @@ More information here: [phat/contracts/js_offchain_rollup/README.md](phat/contra
 
 ### Build the contract
 
+Note: Make sure to have [cargo-contract](https://github.com/paritytech/cargo-contract#installation) installed.
+
 To build the contract:
 ```bash
 cd phat/contracts/js_offchain_rollup
